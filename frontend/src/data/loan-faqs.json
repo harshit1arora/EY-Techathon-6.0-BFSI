@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "scraped_at": "2024-12-03T00:00:00Z",
+    "sources": [
+      "https://www.tatacapital.com/personal-loan",
+      "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=92",
+      "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=91"
+    ],
+    "version": "1.0",
+    "total_faqs": 45
+  },
+  "categories": [
+    {
+      "name": "Personal Loan Basics",
+      "faqs": [
+        {
+          "id": "pl_001",
+          "question": "What is a personal loan?",
+          "answer": "A personal loan is an unsecured loan offered by banks and NBFCs that can be used for any purpose such as medical emergencies, travel, weddings, home renovation, or debt consolidation. No collateral is required.",
+          "keywords": ["personal loan", "unsecured", "collateral"]
+        },
+        {
+          "id": "pl_002",
+          "question": "What is the minimum and maximum personal loan amount?",
+          "answer": "At Tata Capital, personal loans range from ₹75,000 to ₹35,00,000 depending on your eligibility, income, and credit profile.",
+          "keywords": ["minimum", "maximum", "loan amount", "limit"]
+        },
+        {
+          "id": "pl_003",
+          "question": "What is the tenure for personal loans?",
+          "answer": "Personal loan tenure at Tata Capital ranges from 12 months to 72 months (6 years). You can choose a tenure that suits your repayment capacity.",
+          "keywords": ["tenure", "duration", "repayment period"]
+        },
+        {
+          "id": "pl_004",
+          "question": "What is the interest rate for personal loans?",
+          "answer": "Personal loan interest rates at Tata Capital start from 10.49% p.a. onwards. The actual rate depends on your credit score, income, employment type, and loan amount.",
+          "keywords": ["interest rate", "rate of interest", "ROI"]
+        },
+        {
+          "id": "pl_005",
+          "question": "How is EMI calculated?",
+          "answer": "EMI is calculated using the formula: EMI = P × r × (1 + r)^n / ((1 + r)^n - 1), where P is principal, r is monthly interest rate, and n is tenure in months. You can use our EMI calculator for quick estimates.",
+          "keywords": ["EMI", "calculation", "formula", "monthly installment"]
+        }
+      ]
+    },
+    {
+      "name": "Eligibility Criteria",
+      "faqs": [
+        {
+          "id": "el_001",
+          "question": "Who is eligible for a personal loan?",
+          "answer": "Eligibility criteria: (1) Indian citizen or resident, (2) Age between 21-60 years, (3) Minimum monthly income of ₹15,000 for salaried or ₹2,00,000 annual income for self-employed, (4) Good credit score (650+).",
+          "keywords": ["eligibility", "criteria", "who can apply"]
+        },
+        {
+          "id": "el_002",
+          "question": "What credit score is required for personal loan?",
+          "answer": "A credit score of 700+ is ideal for quick approval and best interest rates. Scores between 650-700 may be approved with higher rates. Below 650 may face rejection or require additional documentation.",
+          "keywords": ["credit score", "CIBIL", "credit rating"]
+        },
+        {
+          "id": "el_003",
+          "question": "Can self-employed individuals get personal loans?",
+          "answer": "Yes, self-employed individuals including business owners, professionals (doctors, CAs, lawyers), and freelancers can apply for personal loans with ITR of last 2-3 years and business proof.",
+          "keywords": ["self-employed", "business owner", "freelancer", "professional"]
+        },
+        {
+          "id": "el_004",
+          "question": "What is the minimum salary required?",
+          "answer": "Minimum monthly salary required is ₹15,000 for salaried employees. However, higher income increases your loan eligibility and may get you better interest rates.",
+          "keywords": ["minimum salary", "income requirement", "salary criteria"]
+        },
+        {
+          "id": "el_005",
+          "question": "What is FOIR and how does it affect eligibility?",
+          "answer": "FOIR (Fixed Obligation to Income Ratio) is the percentage of your income going towards existing EMIs and fixed obligations. Ideally, FOIR should be below 50% to be eligible for a new loan.",
+          "keywords": ["FOIR", "debt ratio", "existing EMI", "fixed obligations"]
+        }
+      ]
+    },
+    {
+      "name": "Documentation",
+      "faqs": [
+        {
+          "id": "doc_001",
+          "question": "What documents are required for personal loan?",
+          "answer": "Required documents: (1) Identity Proof - Aadhaar/PAN/Passport/Voter ID, (2) Address Proof - Aadhaar/Utility Bill/Rent Agreement, (3) Income Proof - Latest 3 salary slips, bank statement (6 months), Form 16, (4) Employment Proof - Offer letter or employment certificate.",
+          "keywords": ["documents", "paperwork", "KYC", "proof"]
+        },
+        {
+          "id": "doc_002",
+          "question": "Is PAN card mandatory for personal loan?",
+          "answer": "Yes, PAN card is mandatory for any loan above ₹50,000 as per Income Tax regulations. It is used for identity verification and tax compliance.",
+          "keywords": ["PAN", "mandatory", "tax", "identity"]
+        },
+        {
+          "id": "doc_003",
+          "question": "Can I apply without salary slip?",
+          "answer": "Bank statements showing regular salary credits can be used as alternative income proof if salary slips are not available. Form 16 and ITR can also support your application.",
+          "keywords": ["salary slip", "alternative", "bank statement", "income proof"]
+        },
+        {
+          "id": "doc_004",
+          "question": "What is e-KYC and Video KYC?",
+          "answer": "e-KYC uses Aadhaar-based verification for instant identity check. Video KYC involves a live video call with our representative for verification. Both methods enable paperless, doorstep-free loan processing.",
+          "keywords": ["eKYC", "video KYC", "digital verification", "paperless"]
+        }
+      ]
+    },
+    {
+      "name": "Application Process",
+      "faqs": [
+        {
+          "id": "app_001",
+          "question": "How to apply for a personal loan?",
+          "answer": "You can apply: (1) Online through our website or app - fastest method, (2) Visit nearest Tata Capital branch, (3) Call our helpline 1860-267-6789, (4) Through our AI chatbot for instant pre-approval.",
+          "keywords": ["apply", "application", "how to", "process"]
+        },
+        {
+          "id": "app_002",
+          "question": "How long does loan approval take?",
+          "answer": "Pre-approved customers get instant approval. New customers typically receive approval within 24-48 hours after document submission. Digital applications with e-KYC can be approved in as little as 2 hours.",
+          "keywords": ["approval time", "how long", "processing time", "TAT"]
+        },
+        {
+          "id": "app_003",
+          "question": "What is pre-approved loan offer?",
+          "answer": "Pre-approved offers are instant loan offers based on your credit history and relationship with us. These offers have faster processing, minimal documentation, and competitive interest rates.",
+          "keywords": ["pre-approved", "pre-qualified", "instant offer", "pre-sanctioned"]
+        },
+        {
+          "id": "app_004",
+          "question": "Can I track my loan application status?",
+          "answer": "Yes, you can track your application through: (1) Our website/app using application ID, (2) SMS updates sent to registered mobile, (3) Calling customer care, (4) This AI chatbot.",
+          "keywords": ["track", "status", "application status", "where is my loan"]
+        },
+        {
+          "id": "app_005",
+          "question": "What happens after loan approval?",
+          "answer": "After approval: (1) You receive sanction letter with loan details, (2) Complete e-signing of agreement, (3) Set up auto-debit mandate, (4) Funds disbursed to your bank account within 24 hours.",
+          "keywords": ["after approval", "next steps", "disbursement", "sanction"]
+        }
+      ]
+    },
+    {
+      "name": "Fees and Charges",
+      "faqs": [
+        {
+          "id": "fee_001",
+          "question": "What are the processing fees?",
+          "answer": "Processing fee is typically 1-2% of the loan amount (minimum ₹999). This is a one-time fee deducted from the loan amount at disbursement. Pre-approved customers may get waiver on processing fees.",
+          "keywords": ["processing fee", "charges", "fee", "cost"]
+        },
+        {
+          "id": "fee_002",
+          "question": "Are there any hidden charges?",
+          "answer": "No hidden charges. All applicable fees are disclosed upfront: (1) Processing fee: 1-2%, (2) Prepayment charges: 2-4% on outstanding, (3) Late payment fee: 2% per month on overdue amount, (4) Bounce charges: ₹500-1000 per instance.",
+          "keywords": ["hidden charges", "additional fees", "extra charges", "transparent"]
+        },
+        {
+          "id": "fee_003",
+          "question": "What are prepayment/foreclosure charges?",
+          "answer": "Prepayment charges apply if you close the loan before tenure ends. Typically 2-4% of outstanding principal. Some offers have zero prepayment charges after 12 EMIs. Part-prepayment may have lower charges.",
+          "keywords": ["prepayment", "foreclosure", "early closure", "part payment"]
+        },
+        {
+          "id": "fee_004",
+          "question": "What happens if I miss an EMI?",
+          "answer": "Missing an EMI results in: (1) Late payment fee of 2% per month on overdue, (2) Negative impact on credit score, (3) Collection calls and reminders, (4) Legal action in case of prolonged default. Always inform us if you foresee payment issues.",
+          "keywords": ["missed EMI", "late payment", "default", "overdue"]
+        }
+      ]
+    },
+    {
+      "name": "RBI Guidelines",
+      "faqs": [
+        {
+          "id": "rbi_001",
+          "question": "What are RBI guidelines for personal loans?",
+          "answer": "Key RBI guidelines: (1) Fair Practices Code for transparent lending, (2) Interest rate disclosure requirement, (3) No forced insurance bundling, (4) Cooling-off period for loan cancellation, (5) Grievance redressal mechanism mandatory.",
+          "keywords": ["RBI", "guidelines", "regulations", "rules"]
+        },
+        {
+          "id": "rbi_002",
+          "question": "What is the RBI's Fair Practices Code?",
+          "answer": "Fair Practices Code requires lenders to: (1) Provide clear loan terms, (2) Give reasons for rejection, (3) Not discriminate based on religion/caste/gender, (4) Maintain confidentiality, (5) Have proper recovery practices.",
+          "keywords": ["fair practices", "code", "ethics", "customer rights"]
+        },
+        {
+          "id": "rbi_003",
+          "question": "What is the maximum interest rate allowed?",
+          "answer": "RBI doesn't cap interest rates for NBFCs but requires reasonable pricing. Excessive rates can be reported to RBI. Tata Capital follows responsible lending practices with competitive market rates.",
+          "keywords": ["maximum rate", "interest cap", "rate limit", "RBI cap"]
+        },
+        {
+          "id": "rbi_004",
+          "question": "What are my rights as a borrower?",
+          "answer": "Borrower rights include: (1) Transparent fee disclosure, (2) No coercive recovery practices, (3) Right to prepay with reasonable charges, (4) Access to loan statements, (5) Grievance redressal within 30 days, (6) Escalation to Banking Ombudsman.",
+          "keywords": ["rights", "borrower rights", "customer rights", "protection"]
+        },
+        {
+          "id": "rbi_005",
+          "question": "How to file complaint against unfair practices?",
+          "answer": "Complaint channels: (1) Lender's grievance cell - first step, (2) NBFC Ombudsman if unresolved in 30 days, (3) RBI's IGMS portal for online complaints, (4) Consumer forum for disputes. Tata Capital has dedicated grievance team for quick resolution.",
+          "keywords": ["complaint", "grievance", "unfair", "redressal", "ombudsman"]
+        }
+      ]
+    },
+    {
+      "name": "NBFC and EMI Rules",
+      "faqs": [
+        {
+          "id": "nbfc_001",
+          "question": "What is an NBFC?",
+          "answer": "NBFC (Non-Banking Financial Company) is a company registered under Companies Act that provides banking services like loans without holding a banking license. Tata Capital is a leading NBFC regulated by RBI.",
+          "keywords": ["NBFC", "non-banking", "financial company", "what is"]
+        },
+        {
+          "id": "nbfc_002",
+          "question": "Is Tata Capital RBI registered?",
+          "answer": "Yes, Tata Capital Financial Services Limited is registered with RBI as a Systemically Important Non-Deposit taking NBFC (NBFC-ND-SI). Registration number and details are available on our website and RBI's NBFC registry.",
+          "keywords": ["registered", "RBI", "Tata Capital", "NBFC registration"]
+        },
+        {
+          "id": "nbfc_003",
+          "question": "How is EMI date decided?",
+          "answer": "EMI date is typically set 30 days after disbursement. You can request a specific date (1st-28th of month) to align with your salary credit. Once set, the date remains fixed throughout the tenure.",
+          "keywords": ["EMI date", "payment date", "due date", "when to pay"]
+        },
+        {
+          "id": "nbfc_004",
+          "question": "Can I change my EMI amount?",
+          "answer": "EMI amount is fixed based on loan terms. However, you can: (1) Make part-prepayments to reduce tenure, (2) Request loan restructuring in case of financial hardship, (3) Top-up loan for additional amount with revised EMI.",
+          "keywords": ["change EMI", "reduce EMI", "modify payment", "restructure"]
+        },
+        {
+          "id": "nbfc_005",
+          "question": "What is the difference between flat and reducing interest rate?",
+          "answer": "Flat rate calculates interest on original principal throughout tenure (higher effective cost). Reducing rate calculates interest on outstanding principal (standard practice). Tata Capital uses reducing balance method which is more customer-friendly.",
+          "keywords": ["flat rate", "reducing rate", "interest calculation", "effective rate"]
+        }
+      ]
+    },
+    {
+      "name": "Digital Lending",
+      "faqs": [
+        {
+          "id": "dig_001",
+          "question": "Is online loan application safe?",
+          "answer": "Yes, Tata Capital's digital platform uses: (1) 256-bit SSL encryption, (2) Multi-factor authentication, (3) RBI-compliant data security, (4) No data sharing with third parties without consent. Your information is completely secure.",
+          "keywords": ["safe", "secure", "online", "digital", "security"]
+        },
+        {
+          "id": "dig_002",
+          "question": "What is instant personal loan?",
+          "answer": "Instant personal loans are digitally processed loans with quick approval (within minutes to hours). Features include: (1) Minimal documentation, (2) e-KYC verification, (3) Digital agreement signing, (4) Same-day disbursement.",
+          "keywords": ["instant", "quick", "fast", "immediate", "same day"]
+        },
+        {
+          "id": "dig_003",
+          "question": "How does AI chatbot help in loan application?",
+          "answer": "Our AI chatbot: (1) Checks instant eligibility, (2) Answers queries 24/7, (3) Guides through application process, (4) Provides personalized loan offers, (5) Supports multiple languages, (6) Connects to human agent when needed.",
+          "keywords": ["AI", "chatbot", "assistant", "automated", "help"]
+        },
+        {
+          "id": "dig_004",
+          "question": "Can I complete entire loan process online?",
+          "answer": "Yes, end-to-end digital journey available: (1) Online application, (2) e-KYC/Video KYC, (3) Digital document upload, (4) e-Signing of agreement, (5) e-Mandate for auto-debit, (6) Disbursement to linked bank account.",
+          "keywords": ["online", "digital", "paperless", "end to end", "complete online"]
+        }
+      ]
+    }
+  ]
+}
