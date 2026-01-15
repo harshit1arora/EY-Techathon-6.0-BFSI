@@ -234,3 +234,4 @@ This project is maintained in:
 - `https://github.com/harshit1arora/EY-Techathon-6.0-BFSI` (branch: `main`)
 
 Feel free to fork, experiment with new agent strategies, or plug in real backend services instead of the MCP simulator.
+Made with love for EY Techathon 6.0 - BFSI - Tata Capital
