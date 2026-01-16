@@ -64,6 +64,16 @@ def get_customer_info(payload: Dict[str, Any]):
     
     return {"status": "ok", "result": cust}
 
+@app.post("/call/get_customer_by_phone")
+def get_customer_by_phone(payload: Dict[str, Any]):
+    phone = payload.get("phone")
+    if not phone:
+        raise HTTPException(400, "phone required")
+    for cid, cust in CUSTOMERS.items():
+        if cust.get("phone") == phone:
+            return {"status": "ok", "result": cust}
+    raise HTTPException(404, "customer not found")
+
 @app.post("/call/verify_kyc")
 def verify_kyc(payload: Dict[str, Any]):
     cid = payload.get("customer_id")
